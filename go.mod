@@ -1,4 +1,4 @@
-module github.com/hellinvoid/dist-sys-flyio
+module github.com/byterotom/dist-sys-flyio
 
 go 1.26.4
 

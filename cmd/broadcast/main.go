@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/hellinvoid/dist-sys-flyio/internal/snowflake"
+	"github.com/byterotom/dist-sys-flyio/internal/snowflake"
 	maelstrom "github.com/jepsen-io/maelstrom/demo/go"
 )
 
